@@ -4,3 +4,5 @@ um curso para iniciantes
 aprenderem a trbalhar com
 versonamento de codigo e
 repositorio remotos com Github
+
+(Curso Git 2025)
